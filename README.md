@@ -25,4 +25,4 @@ To demonstrate the setup process, we've included a detailed example in the repos
 Contributions are welcome! If you find any issues or have ideas to enhance the guide, feel free to open an issue or submit a pull request. Your contributions will help make this guide even more helpful for the Jetson Nano community.
 
 ## License
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the content for your purposes. Refer to the license file for more information.
+This project is currently not licensed under any specific open-source license. All rights are reserved. You are welcome to view and use the code for educational and personal purposes. However, please note that this does not grant you any rights to distribute or use the code for commercial purposes without explicit permission from the project owner.
