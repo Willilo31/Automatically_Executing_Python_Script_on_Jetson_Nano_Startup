@@ -39,6 +39,7 @@ ExecStart=/usr/bin/python3 /path/to/your/script.py
 WorkingDirectory=/path/to/your/script/directory
 Restart=always
 User=yourusername
+Group=yourusername
 
 [Install]
 WantedBy=multi-user.target
